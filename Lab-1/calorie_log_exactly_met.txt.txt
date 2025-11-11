@@ -1,0 +1,13 @@
+Calorie Tracker Log
+Timestamp: 2025-11-11 11:36:07
+---------------------------------------------
+Breakfast             350.00
+lunch                 600.00
+snack                 150.00
+dinner                400.00
+---------------------------------------------
+Total Calories: 1500.00
+Average Calories: 375.00
+Daily Limit: 1500.00
+Status: Exactly met
+
