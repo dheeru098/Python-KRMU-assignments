@@ -1,0 +1,17 @@
+CAMPUS ENERGY SUMMARY REPORT
+-------------------------------------
+Total Energy Consumption: 230.90 kWh
+Highest Usage Building: cricket
+Peak Load: 20.80 kWh at 2024-01-03 00:00:00
+
+Daily Trend:
+timestamp
+2024-01-01    92.2
+2024-01-02    66.8
+2024-01-03    71.9
+Freq: D, Name: kwh, dtype: float64
+
+Weekly Trend:
+timestamp
+2024-01-07    230.9
+Freq: W-SUN, Name: kwh, dtype: float64
